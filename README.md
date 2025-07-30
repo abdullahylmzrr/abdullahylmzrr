@@ -2,7 +2,7 @@
   <img src="https://github.com/abdullahylmzrr/abdullahylmzrr/blob/main/Hello%20I%E2%80%99m%20Abdullah%20(1).gif?raw=true" alt="Hello I'm Abdullah GIF" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center">Hi, I'm Abdullah</h1>
 <h3 align="center">A passionate Software Developer | Mobile Development</h3>
 
 
