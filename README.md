@@ -26,6 +26,7 @@
 ## 🛠️ **Technologies**
 
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android&logoColor=3DDC84)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?&logo=Android&logoColor=3DDC84)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)
