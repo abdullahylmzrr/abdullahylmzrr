@@ -1,9 +1,7 @@
 <h1 align="center">Hi , I'm Abdullah</h1>
-<h3 align="center">🚀 A Passionate Mobile Developer from Turkey</h3>
+<h3 align="center">🚀 A Passionate Mobile Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahylmzrr&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahylmzrr" />
-</p>
+
 
 ---
 
@@ -42,6 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ### 📫 Connect With Me
