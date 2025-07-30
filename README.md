@@ -11,7 +11,7 @@
 
 - 🔭 **Working on:** Android apps with Jetpack Compose
 - 🌱 **Learning:** Jetpack Compose, Node.js, React Native
-- �� **Ask me:** Kotlin, Java, React Native, TypeScript
+- **Ask me:** Kotlin, Java, React Native, TypeScript
 - ⚡ **Fun fact:** Always learning something new!
 
 ---
