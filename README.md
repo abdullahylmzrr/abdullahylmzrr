@@ -16,7 +16,7 @@
 
 ---
 
-## ��️ **Languages**
+## **Languages**
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=7F52FF)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -33,15 +33,7 @@
 
 ---
 
-## �� **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahylmzrr&show_icons=true&theme=radical" alt="stats" />
-</p>
-
----
-
-## �� **Current Project: Bondly AI**
+## **Current Project: Bondly AI**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="Project GIF">
