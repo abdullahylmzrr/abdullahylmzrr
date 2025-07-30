@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center">Hi , I'm Abdullah</h1>
 <h3 align="center">🚀 A Passionate Mobile Developer from Turkey</h3>
 
 <p align="center">
@@ -8,9 +8,8 @@
 ---
 
 - 🔭 I’m currently working on **Android apps using Jetpack Compose**
-- 🌱 I’m improving myself in **Node.js, React Native, and Firebase**
+- 🌱 I’m improving myself in **Node.js, React Native, and Jetpack Compose**
 - 💬 Ask me about **Kotlin, Java, Jetpack Compose, React Native, TypeScript**
-- 📫 Reach me at: **abdullahylmzrr@gmail.com**
 - ⚡ Fun fact: *I'm always learning something new!*
 
 ---
@@ -44,23 +43,6 @@
   </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahylmzrr&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahylmzrr&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahylmzrr&layout=compact&theme=radical" alt="top langs" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
