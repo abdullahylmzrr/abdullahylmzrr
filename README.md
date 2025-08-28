@@ -53,9 +53,6 @@
   <a href="https://www.linkedin.com/in/abdullah-y%C4%B1lmazer/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://github.com/abdullahylmzrr" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GitHub" height="40" width="40" />
-  </a>
 </div>
 
 ---
